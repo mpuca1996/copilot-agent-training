@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Unica77 Cohere Web', Inter, Arial, ui-sans-serif, system-ui;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #212121;
+  background: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
